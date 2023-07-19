@@ -1,0 +1,8 @@
+#image-wrapper{
+    min-width: 25rem;
+    max-width: 35rem;
+}
+
+#image-wrapper img{
+    width: 100%;
+}
